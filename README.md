@@ -90,7 +90,7 @@ Removed unnecessary column:
 
 Customer_ID
 
-7.#  Univariate Analysis
+# 7  Univariate Analysis
 
 Analyzed individual feature distributions using:
 
@@ -112,7 +112,7 @@ Cart abandonment
 
 Price sensitivity
 
-5.#  Bivariate Analysis
+# 5  Bivariate Analysis
 
 Compared features with churn status using:
 
@@ -132,7 +132,7 @@ Loyalty Membership vs Churn
 
 Cart Abandonment vs Churn
 
-6.#  Multivariate Analysis
+# 6  Multivariate Analysis
 
 Analyzed relationships among multiple features using:
 
